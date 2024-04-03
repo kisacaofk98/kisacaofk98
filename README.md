@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Omer
-- 👀 I’m interested in iOS developing
-- 🌱 I’m currently learning Xcode - Swift & SwiftUI
+- IOS Developer
 
 <!---
 kisacaofk98/kisacaofk98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
